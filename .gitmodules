@@ -1,0 +1,3 @@
+[submodule "wp-content/mu-plugins/charm"]
+	path = wp-content/mu-plugins/charm
+	url = https://github.com/ryansechrest/charm.git
